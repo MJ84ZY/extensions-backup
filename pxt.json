@@ -5,7 +5,11 @@
         "core": "*",
         "microphone": "*",
         "bluetooth": "*",
-        "Bluetooth Devices": "github:MJ84ZY/bluetooth-devices#40058d06860de21ff5ed257b6a4d0ba74fe1af53"
+        "Bluetooth Devices": "github:MJ84ZY/bluetooth-devices#40058d06860de21ff5ed257b6a4d0ba74fe1af53",
+        "Billy": "github:adamish/pxt-billy#v0.0.25",
+        "filesystem": "github:MJ84ZY/pxt-filesystem#28e44bd91e25f1dfb945d3dd81d8505a862ae860",
+        "power": "github:microbit-foundation/pxt-microbit-v2-power#v0.2.7",
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.5"
     },
     "files": [
         "main.blocks",
