@@ -9,7 +9,14 @@
         "Billy": "github:adamish/pxt-billy#v0.0.25",
         "filesystem": "github:MJ84ZY/pxt-filesystem#28e44bd91e25f1dfb945d3dd81d8505a862ae860",
         "power": "github:microbit-foundation/pxt-microbit-v2-power#v0.2.7",
-        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.5"
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.5",
+        "audio-recording": "*",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.10",
+        "microbit-pxt-timeanddate": "github:bsiever/microbit-pxt-timeanddate#v2.0.33",
+        "states": "github:hovavo/pxt-states#v2.0.5",
+        "microbit-pxt-clicks": "github:bsiever/microbit-pxt-clicks#v0.2.2",
+        "pxt-faces": "github:grandpabond/pxt-faces#v1.1.0",
+        "microbit-pxt-rotate": "github:bsiever/microbit-pxt-rotate#v0.1.6"
     },
     "files": [
         "main.blocks",
